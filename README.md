@@ -21,10 +21,11 @@
 <p>	
 <h1>languages used</h1>
 
+<img height="50cm" align="center" src="https://i.imgur.com/N3A969j.gif"/>
 <img height="50cm" align="center" src="https://i.imgur.com/pSDXRKs.png" onclick=(https://developer.mozilla.org/en-US/docs/Web/JavaScript)/>
 <img height="50" align="center" src="https://i.imgur.com/3xopVhI.png" onclick=(https://www.python.org/psf/)/> 
 <img height="50" align="center" src="https://i.imgur.com/LHJzvaI.png" onclick=(https://www.typescriptlang.org)/>
-	
+<img height="50" align="center" src="https://i.imgur.com/N3A969j.gif"/>
 </p>
 </div>
 <div>
