@@ -28,11 +28,12 @@
 <p>	
 <h1>languages used</h1>
 
-<img height="50cm" align="center" src="https://i.imgur.com/N3A969j.gif"/>
-<img height="50cm" align="center" src="https://i.imgur.com/pSDXRKs.png" onclick=(https://developer.mozilla.org/en-US/docs/Web/JavaScript)/>
-<img height="50" align="center" src="https://i.imgur.com/3xopVhI.png" onclick=(https://www.python.org/psf/)/> 
-<img height="50" align="center" src="https://i.imgur.com/LHJzvaI.png" onclick=(https://www.typescriptlang.org)/>
-<img height="50" align="center" src="https://i.imgur.com/N3A969j.gif"/>
+<img height="50cm" align="center" id="elma3" src="https://i.imgur.com/N3A969j.gif"/>
+<img height="50cm" align="center" id="Javascripticon" src="https://i.imgur.com/pSDXRKs.png" onclick=(https://developer.mozilla.org/en-US/docs/Web/JavaScript)/>
+<img height="50" align="center" id="PynthonIcon" src="https://i.imgur.com/3xopVhI.png" onclick=(https://www.python.org/psf/)/> 
+<img height="50" align="center" id="typescript" src="https://i.imgur.com/LHJzvaI.png" onclick=(https://www.typescriptlang.org)/>
+<img height="50cm" align="center" id="elma3" src="https://i.imgur.com/N3A969j.gif"/>
+
 </p>
 </div>
 	
@@ -42,8 +43,11 @@
 
 <h1>Connection</h1>
 
-<img height="120cm" align="center" src="https://i.imgur.com/qCNG93Z.png"> 
-
+<img height="120cm" align="center" id="Twitter" src="https://i.imgur.com/qCNG93Z.png"> 
+<img height="120cm" align="center" id"Xbox" src="https://i.imgur.com/JuFWG8m.png"/>
+<img height="120cm" align="center" id"Medal" src="https://i.imgur.com/wS8Ekmn.png"/>
+<img height="120cm" align="center" id"GameBanana" src="https://i.imgur.com/Uj3fGeC.png"/>
+ 
 </p>
 <p>
 
