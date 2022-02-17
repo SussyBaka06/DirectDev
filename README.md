@@ -27,5 +27,10 @@
 	
 </p>
 </div>
+<div>
+
+<img height="180cm" align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
+	
+</div>
 </body>
 </div>
