@@ -28,8 +28,10 @@
 </p>
 </div>
 <div>
-
+	<h1>End :)</h1>
+<p>
 <img height="180cm" align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"/>
+</p>
 	
 </div>
 </body>
