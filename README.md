@@ -11,7 +11,7 @@
 <div>
 <p>
 <img height="180" align="center" src="https://media1.giphy.com/media/MOCQX3U6wKPFDPGyoc/giphy.gif?cid=790b76115e940468ded39105be04c454f8e35b883dfa7b68&rid=giphy.gif&ct=g"/>
-<img height="180em"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Directinho&show=langs_count=3"/>
+<img height="160cm" weight="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Directinho&show=langs_count=3"/>
 
 </p>
 </div>
