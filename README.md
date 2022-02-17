@@ -43,7 +43,9 @@
 <h1>Connection</h1>
 
 <img height="120cm" align="center" src="https://i.imgur.com/qCNG93Z.png"> 
-
+<img height="120cm" align="center" src="https://i.imgur.com/JuFWG8m.png"/>
+<img height="120cm" align="center" src="https://i.imgur.com/wS8Ekmn.png"/>
+ 
 </p>
 <p>
 
