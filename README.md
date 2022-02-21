@@ -52,7 +52,6 @@
 
 <div>
 <p>
-	
 <h1 align="center">End :)</h1 align="down">		
 	
 <img height="120cm" align="left" src="https://i.imgur.com/s82OT10.gif"/>
