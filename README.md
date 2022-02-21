@@ -60,7 +60,7 @@
 <img height="120cm" align="center" src="https://i.imgur.com/s82OT10.gif"/>
 </p>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height="5cm" align="center" opacity="40%" src="https://img.shields.io/website?color=red&down_color=red&down_message=NO%20CLICK%20HERE%21&label=Warning&logo=counter%20strike&logoColor=red&style=for-the-badge&up_color=red&up_message=NO%20CLICK%20HERE%21&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height="5cm" align="center" src="https://img.shields.io/website?color=red&down_color=red&down_message=NO%20CLICK%20HERE%21&label=Warning&logo=counter%20strike&logoColor=red&style=for-the-badge&up_color=red&up_message=NO%20CLICK%20HERE%21&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ">
 </p>
 </div>
 </body>
